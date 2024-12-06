@@ -6,7 +6,7 @@ Anggota Kelompok 19:
 3. Darren Adam Dewantoro - 22068616600
 4. Kevin Ariono - Student ID 4
 
-#Chapter 1: Introduction
+# Chapter 1: Introduction
 ## Problem Statement
 
 &emsp;Pemantauan kondisi kesehatan pasien secara real-time merupakan kebutuhan yang semakin mendesak, terutama dalam situasi di mana pasien membutuhkan perhatian intensif atau perawatan jarak jauh. Sistem pemantauan tradisional yang bergantung pada pengawasan langsung tenaga medis sering kali kurang efisien, memakan banyak waktu, dan tidak memungkinkan pemantauan kontinu, terutama dalam kasus pasien yang berada di lokasi terpencil atau memiliki mobilitas terbatas. Hal ini dapat meningkatkan risiko keterlambatan dalam mendeteksi perubahan kondisi kesehatan yang berpotensi berbahaya.
