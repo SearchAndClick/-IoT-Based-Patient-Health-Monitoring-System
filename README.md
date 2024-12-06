@@ -27,7 +27,7 @@ Anggota Kelompok 19:
 
 ## Acceptance Criteria
 
-Berikut adalah kriteria penerimaan untuk memastikan keberhasilan implementasi Sistem Pemantauan Kesehatan Pasien Berbasis IoT:
+&emsp;Berikut adalah kriteria penerimaan untuk memastikan keberhasilan implementasi Sistem Pemantauan Kesehatan Pasien Berbasis IoT:
 
 1. **Pengumpulan Data Sensor:**
     - Sistem dapat membaca data suhu dan kelembapan dari sensor DHT11 secara akurat.
@@ -74,104 +74,104 @@ Berikut adalah kriteria penerimaan untuk memastikan keberhasilan implementasi Si
     </thead>
     <tbody>
         <tr>
-                <td rowspan="7" style="text-align: center; background-color: #c9daf8; color:#000000; border: 1px solid black;">Week 1</td>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">27</td>
-                <td style="background-color: #f6b26b; border: 1px solid black;"></td>
+                <td rowspan="7" style="text-align: center; background-color: #c9daf8; color: #000000; border: 1px solid black;">Week 1</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">27</td>
+                <td style="text-align: center; background-color: #f6b26b; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">28</td>
-                <td style="background-color: #f6b26b; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">28</td>
+                <td style="text-align: center; background-color: #f6b26b; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">29</td>
-                <td style="background-color: #f6b26b; border: 1px solid black;"></td>
-                <td style="background-color: #f9cb9c; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">29</td>
+                <td style="text-align: center; background-color: #f6b26b; color: #000000; border: 1px solid black;">x</td>
+                <td style="text-align: center; background-color: #f9cb9c; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">30</td>
-                <td style="background-color: #f6b26b; border: 1px solid black;"></td>
-                <td style="background-color: #f9cb9c; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">30</td>
+                <td style="text-align: center; background-color: #f6b26b; color: #000000; border: 1px solid black;">x</td>
+                <td style="text-align: center; background-color: #f9cb9c; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">1</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">1</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #f9cb9c; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-        </tr>
-        <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">2</td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #f9cb9c; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #f9cb9c; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">3</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">2</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #f9cb9c; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fce5cd; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td rowspan="7" style="text-align: center; background-color: #c9daf8; color:#000000; border: 1px solid black;">Week 2</td>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">4</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">3</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fce5cd; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-        </tr>
-        <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">5</td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fce5cd; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fce5cd; color: #000000; border: 1px solid black;">x</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">6</td>
+                <td rowspan="7" style="text-align: center; background-color: #c9daf8; color: #000000; border: 1px solid black;">Week 2</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">4</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fce5cd; border: 1px solid black;"></td>
-                <td style="background-color: #fbf2d0; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fce5cd; color: #000000; border: 1px solid black;">x</td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">7</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">5</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fce5cd; border: 1px solid black;"></td>
-                <td style="background-color: #fbf2d0; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fce5cd; color: #000000; border: 1px solid black;">x</td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">8</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">6</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fbf2d0; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fce5cd; color: #000000; border: 1px solid black;">x</td>
+                <td style="text-align: center; background-color: #fbf2d0; color: #000000; border: 1px solid black;">x</td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">9</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">7</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fbf2d0; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fce5cd; color: #000000; border: 1px solid black;">x</td>
+                <td style="text-align: center; background-color: #fbf2d0; color: #000000; border: 1px solid black;">x</td>
         </tr>
         <tr>
-                <td style="text-align: center; background-color: #bdd7ee; color:#000000; border: 1px solid black;">10</td>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">8</td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
                 <td style="background-color: #ddebf7; border: 1px solid black;"></td>
-                <td style="background-color: #fbf2d0; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fbf2d0; color: #000000; border: 1px solid black;">x</td>
+        </tr>
+        <tr>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">9</td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fbf2d0; color: #000000; border: 1px solid black;">x</td>
+        </tr>
+        <tr>
+                <td style="text-align: center; background-color: #bdd7ee; color: #000000; border: 1px solid black;">10</td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="background-color: #ddebf7; border: 1px solid black;"></td>
+                <td style="text-align: center; background-color: #fbf2d0; color: #000000; border: 1px solid black;">x</td>
         </tr>
     </tbody>
 </table>
