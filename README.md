@@ -2,7 +2,7 @@
 
 Anggota Kelompok 19:
 1. Ryan Safa Tjendana - 2206826835
-2. Drasseta Aliyyu Darmansyah -
+2. Drasseta Aliyyu Darmansyah - Student Id 2
 3. Darren Adam Dewantoro - 22068616600
 4. Kevin Ariono - 2206059603
 
@@ -176,9 +176,11 @@ Anggota Kelompok 19:
     </tbody>
 </table>
 
-# Hardware Design and Implementation Details
+# Chapter 2: Implementation
 
-## Komponen Utama:
+## Hardware Design and Implementation Details
+
+### Komponen Utama:
 - **ESP32 Microcontroller**: Bertindak sebagai pusat pengendali.
 - **DHT11**: Sensor suhu dan kelembapan ruangan, terhubung ke GPIO 2.
 - **DS18B20**: Sensor suhu tubuh dengan resistor pull-up 4.7 kΩ, terhubung ke GPIO 4.
@@ -186,14 +188,18 @@ Anggota Kelompok 19:
 - **LED**: Indikator untuk alarm, terhubung ke GPIO 15.
 - **Power Supply**: Sumber daya 5V yang stabil untuk ESP32 dan sensor.
 
-## Rancangan dan Koneksi:
+### Rancangan dan Koneksi:
 - Semua sensor dihubungkan dengan pin yang sesuai pada ESP32.
 - Koneksi I2C digunakan untuk MAX30100, sementara komunikasi dengan DHT11 dan DS18B20 dilakukan melalui GPIO dengan protokol masing-masing.
 - LED digunakan sebagai indikator real-time untuk notifikasi jika ambang batas terlampaui.
 
-# Software Implementation Details
+### Skema rancangan:
+![alt text](</public/img/Hardware Schematic.png>)
+*Fig 1. Skema Rancangan Perangkat Keras*
 
-## Tools dan Library:
+## Software Implementation Details
+
+### Tools dan Library:
 - **Arduino IDE** digunakan untuk pemrograman ESP32.
 - **Library**: 
   - `DHT` untuk sensor DHT11.
@@ -202,15 +208,18 @@ Anggota Kelompok 19:
   - `BlynkSimpleEsp32` untuk integrasi dengan Blynk.
   - `WiFi` untuk konektivitas.
 
-## Fitur Utama:
+### Fitur Utama:
 1. **Pengumpulan Data Sensor**: Data suhu, kelembapan, detak jantung, dan SpO2 dibaca secara berkala.
 2. **Transmisi Data ke Blynk**: Data dikirim ke virtual pin di aplikasi Blynk untuk tampilan real-time.
 3. **Notifikasi dan Alert**: Jika nilai sensor melampaui ambang batas, notifikasi dikirim melalui Blynk dan LED menyala.
 4. **Monitoring Lokal**: Data juga dapat dilihat melalui output serial.
 
-# Test Results and Performance Evaluation
+# Chapter 3: Testing and Evaluation
 
-## Pengujian:
+## Testing:
+![alt text](</public/img/Testing.jpg>)
+*Fig 2. Pengujian Sistem Pemantauan Kesehatan Pasien Berbasis IoT*
+
 1. **Akurasi Sensor**: 
    - DHT11 dibandingkan dengan termometer standar.
    - DS18B20 diuji pada air dengan suhu yang diketahui.
@@ -220,7 +229,10 @@ Anggota Kelompok 19:
 3. **Notifikasi dan Alert**: 
    - Threshold diuji untuk memicu notifikasi dan aktivasi LED.
 
-## Hasil:
+## Results:
+![alt text](</public/img/Testing.jpg>)
+*Fig 3. Hasil Pengujian yang Dilakukan*
+
 - Semua sensor memberikan data yang akurat dan sesuai dengan perangkat referensi.
 - Transmisi data ke Blynk stabil dan konsisten.
 - Mekanisme alert bekerja sesuai ekspektasi, memberikan notifikasi secara real-time.
@@ -231,7 +243,7 @@ Anggota Kelompok 19:
 
 ---
 
-# Conclusion and Future Work
+# Chapter 4: Conclusion and Future Work
 
 ## Conclusion
 Proyek ini berhasil mengembangkan sistem pemantauan kesehatan berbasis IoT yang mampu memberikan data real-time dari berbagai parameter kesehatan melalui integrasi perangkat keras dan perangkat lunak. Sistem ini menawarkan solusi yang terjangkau, efisien, dan dapat diakses, sehingga dapat digunakan untuk pemantauan kesehatan baik di rumah sakit maupun di rumah.
