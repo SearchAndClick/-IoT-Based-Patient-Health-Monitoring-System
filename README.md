@@ -1,7 +1,7 @@
 # IoT-Based-Patient-Health-Monitoring-System
 
 Anggota Kelompok 19:
-1. Ryan Safa Tjendana - Student ID 1
+1. Ryan Safa Tjendana - 2206826835
 2. Drasseta Aliyyu Darmansyah - Student ID 2
 3. Darren Adam Dewantoro - 22068616600
 4. Kevin Ariono - Student ID 4
