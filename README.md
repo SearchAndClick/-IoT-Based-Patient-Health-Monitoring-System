@@ -2,9 +2,9 @@
 
 Anggota Kelompok 19:
 1. Ryan Safa Tjendana - 2206826835
-2. Drasseta Aliyyu Darmansyah - Student ID 2
+2. Drasseta Aliyyu Darmansyah -
 3. Darren Adam Dewantoro - 22068616600
-4. Kevin Ariono - Student ID 4
+4. Kevin Ariono - 2206059603
 
 # Chapter 1: Introduction
 ## Problem Statement
